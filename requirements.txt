@@ -16,3 +16,5 @@ plotly>=5.18.0
 
 # ── Parquet (REQUIRED — pandas.to_parquet / read_parquet engine) ───────────
 pyarrow>=14.0.0
+
+matplotlib>=3.9.0
